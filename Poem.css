@@ -1,0 +1,46 @@
+body{
+    background-image: url(aa.png);
+    background-size: cover;
+    background-color: wheat;
+    color: #f2f5f6;
+    text-align: center;
+    font-family: georgia;
+    line-height: 30px;
+    font-size: medium ;
+    
+    }
+h4  {
+       color:rgb(243, 237, 237);
+    }
+h1{
+        color:rgb(84, 34, 25);
+       text-decoration: rgb(3, 3, 3) underline;
+        letter-spacing: 2px;
+    }
+h3{
+        color:black;
+    }
+button{
+        background-color: rgb(221, 174, 223);
+        color:rgb(8, 6, 8);
+    }
+a{
+    color:rgb(232, 175, 244);
+    text-decoration:none
+    }
+
+    footer{
+        margin : 100px;
+        color: aliceblue;
+        text-align: center;
+        margin: 75px auto ;
+    }
+    div{
+        font-size: larger;
+    }
+
+    index{
+        margin : 100px;
+        
+       
+    }
