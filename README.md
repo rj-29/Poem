@@ -9,5 +9,5 @@ This landing page can be integrated into various websites that feature blogs, st
 # What’s the Benefit of Using It?
 The page enhances user experience by combining a stunning visual background with literary content, making the poem more engaging. The comment box allows users to share their thoughts and feedback, fostering a sense of community. The link to learn more about the poem provides additional context and depth, enriching the user's understanding of the content.
 
-# Techstacks Used
+# Tech Stacks
 The entire page is madeup of HTML & CSS only.
